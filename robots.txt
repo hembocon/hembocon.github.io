@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hembocon.github.io/a/sitemap.html
+Sitemap: https://hembocon.github.io/b/sitemap.html
+Sitemap: https://hembocon.github.io/c/sitemap.html
+Sitemap: https://hembocon.github.io/d/sitemap.html
